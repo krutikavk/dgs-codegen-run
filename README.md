@@ -1,0 +1,1 @@
+--package-name=tester.generated --output-dir=/Users/kkatelia/git/sparse-update/generated-api-tester/src --language=java --generate-data-types --generate-bitset --generate-bitset /Users/kkatelia/git/sparse-update/test-folder/schema.graphqls
